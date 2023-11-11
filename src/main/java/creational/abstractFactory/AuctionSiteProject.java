@@ -1,6 +1,6 @@
-package behavioral.abstractFactory;
+package creational.abstractFactory;
 
-import behavioral.abstractFactory.webSaite.WebSiteTeamFactory;
+import creational.abstractFactory.webSaite.WebSiteTeamFactory;
 
 public class AuctionSiteProject {
     public static void main(String[] args) {

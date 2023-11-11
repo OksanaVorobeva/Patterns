@@ -1,4 +1,4 @@
-package behavioral.abstractFactory;
+package creational.abstractFactory;
 
 public interface Developer {
     void  writeCode();

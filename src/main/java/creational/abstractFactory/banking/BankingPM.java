@@ -1,6 +1,6 @@
-package behavioral.abstractFactory.banking;
+package creational.abstractFactory.banking;
 
-import behavioral.abstractFactory.ProjectManager;
+import creational.abstractFactory.ProjectManager;
 
 public class BankingPM implements ProjectManager {
     @Override

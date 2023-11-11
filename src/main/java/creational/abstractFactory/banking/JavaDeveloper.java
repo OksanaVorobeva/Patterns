@@ -1,6 +1,6 @@
-package behavioral.abstractFactory.banking;
+package creational.abstractFactory.banking;
 
-import behavioral.abstractFactory.Developer;
+import creational.abstractFactory.Developer;
 
 public class JavaDeveloper implements Developer {
     @Override

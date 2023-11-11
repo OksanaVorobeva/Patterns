@@ -1,9 +1,9 @@
-package behavioral.abstractFactory.banking;
+package creational.abstractFactory.banking;
 
-import behavioral.abstractFactory.Developer;
-import behavioral.abstractFactory.ProjectManager;
-import behavioral.abstractFactory.ProjectTeamFactory;
-import behavioral.abstractFactory.Taster;
+import creational.abstractFactory.Developer;
+import creational.abstractFactory.ProjectManager;
+import creational.abstractFactory.ProjectTeamFactory;
+import creational.abstractFactory.Taster;
 
 public class BankingTeamFactory implements ProjectTeamFactory {
     @Override

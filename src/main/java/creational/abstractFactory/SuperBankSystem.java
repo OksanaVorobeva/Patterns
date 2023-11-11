@@ -1,6 +1,6 @@
-package behavioral.abstractFactory;
+package creational.abstractFactory;
 
-import behavioral.abstractFactory.banking.BankingTeamFactory;
+import creational.abstractFactory.banking.BankingTeamFactory;
 
 public class SuperBankSystem {
     public static void main(String[] args) {

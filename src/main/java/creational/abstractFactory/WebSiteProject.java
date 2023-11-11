@@ -1,6 +1,4 @@
-package behavioral.abstractFactory;
-
-import behavioral.factory.PhpDeveloper;
+package creational.abstractFactory;
 
 public class WebSiteProject {
     public static void main(String[] args) {

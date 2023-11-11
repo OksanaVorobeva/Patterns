@@ -1,6 +1,6 @@
-package behavioral.abstractFactory.webSaite;
+package creational.abstractFactory.webSaite;
 
-import behavioral.abstractFactory.Taster;
+import creational.abstractFactory.Taster;
 
 public class ManualTester implements Taster {
     @Override

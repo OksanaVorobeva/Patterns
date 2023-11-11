@@ -1,6 +1,6 @@
-package behavioral.abstractFactory.webSaite;
+package creational.abstractFactory.webSaite;
 
-import behavioral.abstractFactory.ProjectManager;
+import creational.abstractFactory.ProjectManager;
 
 public class WebsitePM implements ProjectManager {
     @Override

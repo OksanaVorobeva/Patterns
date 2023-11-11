@@ -1,9 +1,9 @@
-package behavioral.abstractFactory.webSaite;
+package creational.abstractFactory.webSaite;
 
-import behavioral.abstractFactory.Developer;
-import behavioral.abstractFactory.ProjectManager;
-import behavioral.abstractFactory.ProjectTeamFactory;
-import behavioral.abstractFactory.Taster;
+import creational.abstractFactory.Developer;
+import creational.abstractFactory.ProjectManager;
+import creational.abstractFactory.ProjectTeamFactory;
+import creational.abstractFactory.Taster;
 
 public class WebSiteTeamFactory implements ProjectTeamFactory {
     @Override

@@ -1,7 +1,6 @@
-package behavioral.abstractFactory.banking;
+package creational.abstractFactory.banking;
 
-import behavioral.abstractFactory.Developer;
-import behavioral.abstractFactory.Taster;
+import creational.abstractFactory.Taster;
 
 public class QATTester implements Taster {
     @Override

@@ -1,6 +1,6 @@
-package behavioral.abstractFactory.webSaite;
+package creational.abstractFactory.webSaite;
 
-import behavioral.abstractFactory.Developer;
+import creational.abstractFactory.Developer;
 
 public class PhpDeveloper implements Developer {
     @Override
